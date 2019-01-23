@@ -1,4 +1,4 @@
 #test
 import numpy as np
-import pandas as pd
-
+array1 = np.array[1,2,3]
+print(array1)
